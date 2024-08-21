@@ -1,0 +1,38 @@
+# 1. Introduction
+
+Welcome to ISC NIRScan ("we", "our", "us"). We are committed to respecting your privacy. This Privacy Policy explains how we handle any information that may be collected when you use our software. Importantly, we do not collect any personal information from users.
+
+# 2. No Collection of Personal Information
+
+Our software is designed to operate without collecting, storing, or processing any personal information from users. This includes but is not limited to:
+
+- Name
+- Email address
+- Contact information
+
+# 3. Usage Information
+
+While we do not collect personal information, we may collect non-personal usage data that is necessary for the operation and improvement of the software. This information may include:
+
+- Device type
+- Operating system
+- Software version
+- Anonymous usage statistics
+
+This data is collected in a way that does not personally identify you.
+
+# 4. Cookies and Tracking Technologies
+
+Our software does not use cookies or other tracking technologies that would collect or store personal information.
+
+# 5. Data Security
+
+Since we do not collect personal information, there is no personal data to secure. However, we are committed to ensuring the overall security of our software and protecting it from unauthorized access or misuse.
+
+# 6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on our website with the updated policy and effective date.
+
+# 7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at <jeremy.hsieh@Inno-spectra.com>.
