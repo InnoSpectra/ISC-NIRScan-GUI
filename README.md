@@ -6,13 +6,9 @@
 
 2. Display resolution: 1366 * 768 and above.
 
-3. IDE: Microsoft Visual Studio 2017
+3. Microsoft .NET Framework: v4.7.2
 
-4. C# Language Version: v7.0
-
-5. Microsoft .NET Framework: v4.7.2
-
-6. Microsoft Visual C++ Redistributable (x86/x64): 2010 or 2017
+4. Microsoft Visual C++ Redistributable (x86/x64): 2010 or 2017
 
 
 # License - InnoSpectra Corp.
